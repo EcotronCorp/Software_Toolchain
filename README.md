@@ -8,7 +8,7 @@ With EcoCoder-AI, the Simulink model-based control strategy can be directly conv
 
 You are welcome to find more at https://ecotron.ai/ecocoder-ai/ 
 
-## EcoFalsh
+## EcoFlash
 
 EcoFlash is a code flashing software. The function of the software is to flash the compiled executable code into the low-level device and start the device to execute the program to achieve software code flashing and online upgrade.
 
