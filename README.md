@@ -14,4 +14,10 @@ EcoFlash is a code flashing software. The function of the software is to flash t
 
 You are welcome to find more at https://ecotron.ai/ecoflash/
 
+## EcoCAL
+EcoCAL is the calibration software of EV/Hybrid system from Ecotron, which can be used to connect and control the battery/motor states, modify the maps of the driver torque, verify the threshold of the acceleration/brake pedals, control the auxiliaries etc.
+Ecotron HCU/VCU is fully programmable, so if you want to change the setting of VCU/HCU, you need to connect HCU/VCU to laptop via EcoCAL.
+
+You are welcome to find more at https://ecotron.ai/ecocal/
+
 If you have any additional questions, please contact info@ecotron.ai
